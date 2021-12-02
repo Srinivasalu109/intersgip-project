@@ -1,0 +1,19 @@
+.studentLoginForm {
+  width: 50%;
+  min-height: 260px;
+  min-width: 260px;
+  background-color: #056b5c;
+  padding: 1rem;
+}
+.maincontainer {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+}
+.mainbody {
+  background-color: #5c196b;
+  height: 100vh;
+  width: 100vw;
+}
